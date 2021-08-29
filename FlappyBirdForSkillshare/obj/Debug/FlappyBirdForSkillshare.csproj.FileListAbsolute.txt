@@ -1,0 +1,10 @@
+C:\Users\realcjsphotography\OneDrive\Desktop\FlappyBirdForSkillshare\bin\Debug\FlappyBirdForSkillshare.exe.config
+C:\Users\realcjsphotography\OneDrive\Desktop\FlappyBirdForSkillshare\bin\Debug\FlappyBirdForSkillshare.exe
+C:\Users\realcjsphotography\OneDrive\Desktop\FlappyBirdForSkillshare\bin\Debug\FlappyBirdForSkillshare.pdb
+C:\Users\realcjsphotography\OneDrive\Desktop\FlappyBirdForSkillshare\obj\Debug\FlappyBirdForSkillshare.csproj.AssemblyReference.cache
+C:\Users\realcjsphotography\OneDrive\Desktop\FlappyBirdForSkillshare\obj\Debug\FlappyBirdForSkillshare.Form1.resources
+C:\Users\realcjsphotography\OneDrive\Desktop\FlappyBirdForSkillshare\obj\Debug\FlappyBirdForSkillshare.Properties.Resources.resources
+C:\Users\realcjsphotography\OneDrive\Desktop\FlappyBirdForSkillshare\obj\Debug\FlappyBirdForSkillshare.csproj.GenerateResource.cache
+C:\Users\realcjsphotography\OneDrive\Desktop\FlappyBirdForSkillshare\obj\Debug\FlappyBirdForSkillshare.csproj.CoreCompileInputs.cache
+C:\Users\realcjsphotography\OneDrive\Desktop\FlappyBirdForSkillshare\obj\Debug\FlappyBirdForSkillshare.exe
+C:\Users\realcjsphotography\OneDrive\Desktop\FlappyBirdForSkillshare\obj\Debug\FlappyBirdForSkillshare.pdb
